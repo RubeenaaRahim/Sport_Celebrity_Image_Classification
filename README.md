@@ -1,11 +1,11 @@
 # Celebrity Image classification Using CNN 
 ## Dataset:
 The dataset consists of images of the following celebrities:
-Lionel Messi: 36 images
-Maria Sharapova: 34 images
-Roger Federer: 28 images
-Serena Williams: 29 images
-Virat Kohli: 41 images
+- Lionel Messi: 36 images
+- Maria Sharapova: 34 images
+- Roger Federer: 28 images
+- Serena Williams: 29 images
+- Virat Kohli: 41 images
  
 ## Libraries Used:
 1. Numpy
