@@ -27,8 +27,9 @@
    - The model is trained on the training set for 50 epochs with a batch size of 32.
    - Training progress is monitored, and a validation split of 30% is used to assess model performance during training.
 ## 4. Evaluation:
-     The trained model is evaluated on the test set, and accuracy is reported.
-     Classification metrics, such as precision, recall, and F1-score, are provided through a classification report.
+     - The trained model is evaluated on the test set, and accuracy is reported.
+     - Classification metrics, such as precision, recall, and F1-score, are provided through a classification report.
+
 
 ## Critical Findings:
       Accuracy: The final accuracy on the test set is printed, indicating the model's overall performance.
