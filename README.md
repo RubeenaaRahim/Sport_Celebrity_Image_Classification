@@ -1,10 +1,12 @@
-# Image classification of five sports celebrities 
-## Sport persons are: 
-1. Virat kohli
-2. Serena Williams
-3. Roger Federer
-4. Maria Sharapova
-5. Lionel Messi
+# Celebrity Image classification Using CNN 
+## Dataset:
+The dataset consists of images of the following celebrities:
+Lionel Messi: 36 images
+Maria Sharapova: 34 images
+Roger Federer: 28 images
+Serena Williams: 29 images
+Virat Kohli: 41 images
+ 
 ## Libraries Used:
 1. Numpy
 2. Matplotlib
