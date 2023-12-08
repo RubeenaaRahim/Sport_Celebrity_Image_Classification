@@ -37,3 +37,7 @@
     - Classification Report: Provides a detailed breakdown of the model's performance for each class, offering insights into precision, recall, and F1-score for 
       individual celebrities.
     - The code will preprocess each image, pass it through the trained model, and print the predicted label for each image based on the celebrity classes
+    - Accuracy: The final accuracy on the test set is printed, indicating the model's overall performance.
+    - Classification Report: Provides a detailed breakdown of the model's performance for each class, offering insights into precision, recall, and F1-score for 
+      individual celebrities.
+    - The code will preprocess each image, pass it through the trained model, and print the predicted label for each image based on the celebrity classes
